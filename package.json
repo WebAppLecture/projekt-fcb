@@ -1,0 +1,26 @@
+{
+  "name": "projekt-fcb",
+  "version": "1.0.0",
+  "description": "SS2020",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebAppLecture/projekt-fcb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebAppLecture/projekt-fcb/issues"
+  },
+  "homepage": "https://github.com/WebAppLecture/projekt-fcb#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
